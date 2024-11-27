@@ -7,7 +7,7 @@ I'm a passionate developer, designer, and tech enthusiast.
 - 🌱 I’m diving into backend development and learning how to integrate it with front-end technologies.
 - 👯 I’m eager to collaborate on exciting open-source projects and innovative solutions.
 - 💬 Ask me about front-end development, UI design, and coding best practices.
-- 📫 How to reach me: [Email](mailto:your.samueldaniyan564@gmail.com) or [Chat with me on WhatsApp!](https://wa.me/08115829421)
+- 📫 How to reach me: [Email](mailto:your.samueldaniyan564@gmail.com) or [Chat with me on WhatsApp!](https://wa.me/+2348115829421)
 - ⚡ Fun fact: I love solving problems and finding creative solutions. I'm always up for a good challenge! 💡
 
 ### 🔧 My Skills
